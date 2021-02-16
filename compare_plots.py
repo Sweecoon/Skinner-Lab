@@ -76,17 +76,17 @@ print(mean_freq)
 print(var_freq)
 
 #gNav
-# ax[0].set_title('gNavaxon = 0.064')
-# ax[1].set_title('gNavaxon = 0.032')
-# ax[2].set_title('gNavaxon= 0.096')
+# ax[0].set_title('gNav = ****')
+# ax[1].set_title('gNav = ****')
+# ax[2].set_title('gNav = ****')
 #gNavaxon
 # ax[0].set_title('gNavaxon = 0.064')
 # ax[1].set_title('gNavaxon = 0.032')
 # ax[2].set_title('gNavaxon= 0.096')
 #gKvA
-#ax[0].set_title('gNavaxon = 0.064')
-#ax[1].set_title('gNavaxon = 0.032')
-#ax[2].set_title('gNavaxon= 0.096')
+#ax[0].set_title('gKvA = 0.008')
+#ax[1].set_title('gKvA = 0.016')
+#ax[2].set_title('gKvA = 0.004')
 #gKdr
 # ax[0].set_title('gKdr = 0.003')
 # ax[1].set_title('gKdr = 0.03')
